@@ -20,6 +20,8 @@ https://github.com/aniketwattamwar/DeepResearchAgent/blob/main/langchain_demo_ag
 - LangSmith tracing support
 - Interactive Gradio UI
 
+## NOTE: main.py with src folder is the next step to write better and clean code. Inspired from the local deep researcher repository
+
 ## Steps to Run Code
 
 1. **Install required libraries**
