@@ -2,14 +2,15 @@
 
 Deep Research Agent developed with LangGraph
 
-![Deep Research LangGraph](deep_research_langgraph.jpg)
-
-
 # Demo
 
-Check out the demo video:
+Check out the demo video(Might have to download first):
 
 https://github.com/aniketwattamwar/DeepResearchAgent/blob/main/langchain_demo_agent.mp4
+
+
+
+![Deep Research LangGraph](deep_research_langgraph.jpg)
 
 
 ## Features
